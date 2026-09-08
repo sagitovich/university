@@ -1,3 +1,0 @@
-Number of SCCs: 2
-SCC 1: [4, 3]
-SCC 2: [2, 0, 1]
